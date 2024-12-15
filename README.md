@@ -15,7 +15,9 @@ You can click the Preview link to take a look at your changes.
 <h2>Streaks</h2>
 
 <p align="left">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaltunibrahim)](https://git.io/streak-stats)
+
 </p>
 
 
