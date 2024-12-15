@@ -11,6 +11,8 @@ aaltunibrahim/aaltunibrahim is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+![](https://komarev.com/ghpvc/?username=aaltunibrahim&color=green)
+
 
 <h2>Streaks</h2>
 
