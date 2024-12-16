@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<h2>Acoount Stats</h2>
+<h2>Account Stats</h2>
 
 <p align="left">
   
