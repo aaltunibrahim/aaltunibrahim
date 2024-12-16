@@ -35,6 +35,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaltunibrahim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaltunibrahim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&show_icons=true&hide=contribs,prs)
 
 </p>
