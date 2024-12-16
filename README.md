@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<h2>Social Acoounts</h2>
+<h2>Social Accounts</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
